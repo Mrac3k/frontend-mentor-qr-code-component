@@ -26,7 +26,7 @@ This is my solution to the QR Code Component challenge on Frontend Mentor. The g
 
 ### Links
 
-* Live Site URL: [Add live site URL here]
+* Live Site URL: https://mrac3k.github.io/frontend-mentor-qr-code-component/
 
 ### My Process
 
